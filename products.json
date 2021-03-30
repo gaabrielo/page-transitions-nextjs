@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ghost-whey-legend",
+        "name": "GHOST® Legend",
+        "details": "GHOST Legend pre workout combines a stand out energy and focus formula with premium pump ingredients to get you feeling like a legend whenever you need it most.",
+        "price": "$44.99",
+        "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/LegendV2Peach.png?v=1614716536"
+    },
+    {
+        "id": "ghost-whey-vegan",
+        "name": "GHOST® Vegan Protein",
+        "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+        "price": "$49.99",
+        "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+    }
+]
