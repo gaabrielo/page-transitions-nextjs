@@ -1,4 +1,4 @@
 # pages-transition-nextjs
 Simple web store using Framer Motion package for animations and page transitions. Template from @wrongakram, preview in: 
 
-![Watch the video](https://user-images.githubusercontent.com/71290629/133178854-8664757d-6cbd-47ab-add0-6c5b75c2bff8.mp4)
+https://user-images.githubusercontent.com/71290629/133179417-93270914-eec7-4552-8bf8-6580158933c4.mp4
