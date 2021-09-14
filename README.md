@@ -15,7 +15,7 @@ Simple web store using Framer Motion package for animations and page transitions
 
 ## 🚀 How to run
 
-- `git clone `
+- `git clone [--template=<template_directory>]`
 - `npm run dev`
 
 Now access [`localhost:3000`](http://localhost:3000) from your browser.
